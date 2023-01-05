@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ShawnAlisson/theLanding">
-    <img src="public/assets/logo192.png" alt="Logo" width="80" height="80">
+    <img src="public/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">thePersonal</h3>
